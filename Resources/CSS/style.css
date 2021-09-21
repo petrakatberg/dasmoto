@@ -1,0 +1,63 @@
+* {
+    font-family:Helvetica;
+    text-align:center;
+}
+h1 {
+  font-size:100px;  
+  font-weight:bold;
+  color:khaki;
+  background-image:url('file:///Users/petraclarke/Documents/Codecademy/Projects/Dasmoto/Resources/Images/pattern.webp');
+  padding-top:50px;
+  padding-bottom:50px;
+  margin-top:0;
+}
+main {
+    display:flex;
+}
+h2 {
+    color:white;
+    font-weight:bold;
+    font-size:32px;
+    margin:0;
+    padding:10px;
+}
+.green {
+    background:mediumspringgreen;
+}
+.red {
+    background:lightcoral
+}
+.blue {
+    background:skyblue;
+}
+.blue-text {
+    font-weight:bold;
+    color:blue;
+}
+body {
+    margin:0px;
+}
+section {
+    width:30%;
+}
+#section2 {
+    margin-left:5%;
+    margin-right:5%;
+}
+p {
+    padding-left:10px;
+    padding-right:10px;
+}
+div {
+    max-width: 250px;
+    margin:auto;
+}
+#div1 {
+    border:2px solid mediumspringgreen;
+}
+#div2 {
+    border:2px solid lightcoral;
+}
+#div3 {
+    border:2px solid skyblue;
+}
