@@ -50,14 +50,16 @@ p {
 }
 div {
     max-width: 250px;
-    margin:auto;
 }
 #div1 {
     border:2px solid mediumspringgreen;
+    margin-right:0;
 }
 #div2 {
     border:2px solid lightcoral;
+    margin:auto;
 }
 #div3 {
     border:2px solid skyblue;
+    margin-left:0;
 }
