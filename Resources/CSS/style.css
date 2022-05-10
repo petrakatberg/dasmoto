@@ -54,6 +54,7 @@ div {
 #div1 {
     border:2px solid mediumspringgreen;
     margin-right:0;
+    margin-left: auto
 }
 #div2 {
     border:2px solid lightcoral;
